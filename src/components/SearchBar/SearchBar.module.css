@@ -1,0 +1,18 @@
+.main {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  background-color: rgba(203, 203, 203, 0.84);
+  padding: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.filter {
+  overflow: hidden;
+  border-radius: 0 1rem;
+  background-color: white;
+  border-bottom: 2px solid rgb(184, 184, 184);
+  padding: 10px;
+  box-sizing: border-box;
+}

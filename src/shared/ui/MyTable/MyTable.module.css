@@ -1,0 +1,27 @@
+.main {
+  position: relative;
+  width: 100%;
+  text-align: center;
+
+  table-layout: fixed;
+  border-spacing: 0;
+  padding: 2px;
+}
+.main table {
+  width: 100%;
+  text-align: center;
+
+  table-layout: fixed;
+  border-spacing: 0;
+  padding: 2px;
+}
+.main table tr {
+  height: 3rem;
+  text-align: start;
+}
+.main table tr td {
+  padding-left: 1rem;
+}
+.main thead tr {
+  min-height: 20rem;
+}
